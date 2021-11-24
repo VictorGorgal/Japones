@@ -3,5 +3,5 @@ Algoritmo criado usando POO para facilitar na memorização dos alfabetos japon�
 
 Este arquivo faz parte de um projeto maior (BOT).
 
-O programa consiste em mostrar um caracter em Hiragana ou Katakana, o usuário então deve responder ao Romanji respectivo.
-O intuito do programa era de facilitar na memorização do alfabeto Japonês.
+O programa consiste em mostrar um caracter em Hiragana ou Katakana, o usuário então deve responder o Romanji respectivo.
+O intuito do programa é de facilitar na memorização do alfabeto Japonês.
