@@ -1,7 +1,7 @@
 # Japones
-Algoritmo criado usando POO para facilitar na memorização dos alfabetos japonêses Hiragana e Katanana.
+Algorithm created using OOP to facilitate the memorization of the Japanese Hiragana and Katanana alphabets.
 
-Este arquivo faz parte de um projeto maior (BOT).
+This file is part of a larger project (BOT).
 
-O programa consiste em mostrar um caracter em Hiragana ou Katakana, o usuário então deve responder o Romanji respectivo.
-O intuito do programa é de facilitar na memorização do alfabeto Japonês.
+The program consists of displaying a character in Hiragana or Katakana, the user must then answer the respective Romanji.
+The purpose of the program is to facilitate the memorization of the Japanese alphabet.
